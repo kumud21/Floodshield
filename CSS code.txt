@@ -1,0 +1,7703 @@
+/* iPhone 11 Pro / X - 1 */
+position: relative;
+width: 420px;
+height: 899px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+/* 240-2405890_whatsapp-background-pictures-background-image-for-app 2 */
+position: absolute;
+width: 420px;
+height: 899px;
+left: 0px;
+top: 0px;
+
+/* Rectangle 26 */
+position: absolute;
+left: 26.19%;
+right: 26.19%;
+top: 23.47%;
+bottom: 54.28%;
+
+background: url(WhatsApp Image 2020-10-03 at 3.54.jpg);
+border-radius: 100px;
+
+/* FLOOD SHIELD */
+position: absolute;
+width: 317px;
+height: 63px;
+left: 52px;
+top: 494px;
+
+/* Rectangle 1
+
+Get Started
+*/
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 0px 0px 10px;
+
+position: absolute;
+width: 111px;
+left: 155px;
+top: 639px;
+bottom: 210px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+/* Get Started */
+
+
+position: static;
+width: 91px;
+height: 21px;
+left: 10px;
+top: 14.5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+margin: 10px 0px;
+
+/* Frame 1 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+/* 1 white */
+
+background: #FFFFFF;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 166px;
+height: 57px;
+left: 129px;
+top: 568px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Enter your Email ID */
+
+
+position: absolute;
+width: 202px;
+height: 28px;
+left: 109px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 56px;
+top: 306px;
+
+background: #5E5C9F;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 23px;
+top: 425px;
+
+/* 2 gray */
+
+background: #EDEFF2;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Hover */
+
+
+position: relative;
+width: 367px;
+height: 48px;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+/* 3 gray */
+
+background: #D0D4D9;
+border-radius: 12px;
+
+/* a */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* a */
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* space */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* Text */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* b */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* b */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* c */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* c */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* d */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* d */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* e */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* e */
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* f */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* f */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* g */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* g */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* h */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* h */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* i */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* i */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* j */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* j */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* k */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* k */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* l */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* l */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* m */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* m */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* n */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* n */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* o */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* o */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* p */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* p */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* q */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* r */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* r */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* s */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* s */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* t */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* t */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* u */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* u */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* v */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* v */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* w */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* w */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* x */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* x */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* y */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* y */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* z */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* z */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* . */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* . */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* _ */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* _ */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* @ */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* @ */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* a */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+/* a */
+
+
+position: absolute;
+width: 16px;
+height: 28px;
+left: 0px;
+top: 2px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* a */
+
+
+position: absolute;
+width: 16px;
+height: 28px;
+left: 0px;
+top: 2px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* chars set 04 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* chars set 02 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* chars set 01 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* cursor */
+
+
+position: absolute;
+width: 9px;
+height: 24px;
+right: -8px;
+top: calc(50% - 24px/2);
+
+background: url(image1.png);
+
+
+/* Frame 2 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 166px;
+height: 57px;
+left: 129px;
+top: 568px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Enter your Email ID */
+
+
+position: absolute;
+width: 202px;
+height: 28px;
+left: 109px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 56px;
+top: 306px;
+
+background: #5E5C9F;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* Input */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 9px;
+height: 35px;
+left: 48px;
+top: 431px;
+
+/* cursor */
+
+
+position: static;
+width: 9px;
+height: 24px;
+left: 0px;
+top: 5.5px;
+
+background: url(image0.png);
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* text */
+
+
+position: static;
+width: 0px;
+height: 22px;
+left: 0px;
+top: 6.5px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* 9 black */
+
+color: #000000;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* @gmail.com */
+
+
+position: absolute;
+width: 109px;
+height: 32px;
+left: 273px;
+top: 433px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: rgba(0, 0, 0, 0.5);
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 23px;
+top: 425px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Frame 4 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+/* 1 white */
+
+background: #FFFFFF;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 166px;
+height: 57px;
+left: 129px;
+top: 568px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Enter your Country */
+
+
+position: absolute;
+width: 198px;
+height: 28px;
+left: 109px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 56px;
+top: 306px;
+
+background: #5E5C9F;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 23px;
+top: 425px;
+
+/* 2 gray */
+
+background: #EDEFF2;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+
+/* Hover */
+
+
+position: relative;
+width: 367px;
+height: 48px;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+/* 3 gray */
+
+background: #D0D4D9;
+border-radius: 12px;
+
+/* a */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* a */
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* space */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* Text */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* b */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* b */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* c */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* c */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* d */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* d */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* e */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* e */
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* f */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* f */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* g */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* g */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* h */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* h */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* i */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* i */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* j */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* j */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* k */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* k */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* l */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* l */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* m */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* m */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* n */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* n */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* o */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* o */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* p */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* p */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* q */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* r */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* r */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* s */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* s */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* t */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* t */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* u */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* u */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* v */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* v */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* w */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* w */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* x */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* x */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* y */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* y */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* z */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* z */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* . */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* . */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* _ */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* _ */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* @ */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* @ */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* a */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+/* a */
+
+
+position: absolute;
+width: 16px;
+height: 28px;
+left: 0px;
+top: 2px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* a */
+
+
+position: absolute;
+width: 16px;
+height: 28px;
+left: 0px;
+top: 2px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* chars set 04 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* chars set 02 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* chars set 01 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* cursor */
+
+
+position: absolute;
+width: 9px;
+height: 24px;
+right: -8px;
+top: calc(50% - 24px/2);
+
+background: url(image1.png);
+
+/* Frame 5 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Enter your Country */
+
+
+position: absolute;
+width: 198px;
+height: 28px;
+left: 109px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 56px;
+top: 306px;
+
+background: #5E5C9F;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* Input */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 9px;
+height: 35px;
+left: 48px;
+top: 431px;
+
+/* cursor */
+
+
+position: static;
+width: 9px;
+height: 24px;
+left: 0px;
+top: 5.5px;
+
+background: url(image0.png);
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* text */
+
+
+position: static;
+width: 0px;
+height: 22px;
+left: 0px;
+top: 6.5px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* 9 black */
+
+color: #000000;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 23px;
+top: 425px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Frame 6 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+/* 1 white */
+
+background: #FFFFFF;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 166px;
+height: 57px;
+left: 129px;
+top: 568px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Enter your City */
+
+
+position: absolute;
+width: 155px;
+height: 28px;
+left: 129px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 56px;
+top: 306px;
+
+background: #5E5C9F;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 23px;
+top: 425px;
+
+/* 2 gray */
+
+background: #EDEFF2;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Hover */
+
+
+position: relative;
+width: 367px;
+height: 48px;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+/* 3 gray */
+
+background: #D0D4D9;
+border-radius: 12px;
+
+/* a */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* a */
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* space */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* Text */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* b */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* b */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* c */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* c */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* d */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* d */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* e */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* e */
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* f */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* f */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* g */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* g */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* h */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* h */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* i */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* i */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* j */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* j */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* k */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* k */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* l */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* l */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* m */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* m */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* n */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* n */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* o */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* o */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* p */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* p */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* q */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* r */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* r */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* s */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* s */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* t */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* t */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* u */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* u */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* v */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* v */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* w */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* w */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* x */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* x */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* y */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* y */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* z */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* z */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* . */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* . */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* _ */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* _ */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* @ */
+
+position: relative;
+width: 16px;
+height: 32px;
+
+background: #FFFFFF;
+
+/* @ */
+
+
+position: absolute;
+width: 16px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* a */
+
+
+position: relative;
+width: 16px;
+height: 32px;
+
+/* a */
+
+
+position: absolute;
+width: 16px;
+height: 28px;
+left: 0px;
+top: 2px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* a */
+
+
+position: absolute;
+width: 16px;
+height: 28px;
+left: 0px;
+top: 2px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* chars set 04 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* unset */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* chars set 02 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* chars set 01 */
+
+
+position: absolute;
+width: 4px;
+height: 32px;
+left: -1px;
+top: calc(50% - 32px/2);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 28px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 24px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 20px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 12px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 8px;
+
+background: rgba(255, 255, 255, 0.01);
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 4px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.01);
+
+/* cursor */
+
+
+position: absolute;
+width: 9px;
+height: 24px;
+right: -8px;
+top: calc(50% - 24px/2);
+
+background: url(image1.png);
+
+/* Frame 7 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Enter your City */
+
+
+position: absolute;
+width: 155px;
+height: 28px;
+left: 129px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 56px;
+top: 306px;
+
+background: #5E5C9F;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* Click and start typing ↗ */
+
+
+position: absolute;
+width: 242px;
+height: 27px;
+left: 31px;
+top: 486px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #000000;
+
+opacity: 0.3;
+
+/* cursor */
+
+
+position: static;
+width: 9px;
+height: 24px;
+left: 0px;
+top: 5.5px;
+
+background: url(image0.png);
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* text */
+
+
+position: static;
+width: 0px;
+height: 22px;
+left: 0px;
+top: 6.5px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* 9 black */
+
+color: #000000;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+margin: 0px 0px;
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 367px;
+height: 48px;
+left: 23px;
+top: 425px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 12px;
+
+/* Done */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 179px;
+top: 580px;
+
+font-family: Noto Sans Malayalam UI;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 166px;
+height: 57px;
+left: 129px;
+top: 568px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Frame 3 */
+
+
+position: relative;
+width: 414px;
+height: 1319px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* Contact us */
+
+
+position: absolute;
+width: 91px;
+height: 22px;
+left: 160px;
+top: 1268px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Know high risk areas */
+
+
+position: absolute;
+width: 173px;
+height: 22px;
+left: 120px;
+top: 868px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Safety Measures */
+
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 139px;
+top: 668px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Identify your damage potential */
+
+
+position: absolute;
+width: 254px;
+height: 22px;
+left: 80px;
+top: 470px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Identify your damage potential */
+
+
+position: absolute;
+width: 254px;
+height: 22px;
+left: 80px;
+top: 470px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+/* Test areas and river basin */
+
+
+position: absolute;
+width: 217px;
+height: 22px;
+left: 97px;
+top: 1067px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 347px;
+height: 182px;
+left: 32px;
+top: 912px;
+
+background: url(WhatsApp Image 2020-10-03 at 5.10.jpg);
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 347px;
+height: 182px;
+left: 32px;
+top: 1111px;
+
+background: url(WhatsApp Image 2020-10-03 at 4.20.jpg);
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 347px;
+height: 182px;
+left: 33px;
+top: 315px;
+
+background: url(WhatsApp Image 2020-10-03 at 5.04.jpg);
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 347px;
+height: 182px;
+left: 32px;
+top: 713px;
+
+background: url(WhatsApp Image 2020-10-03 at 4.24.jpg);
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 347px;
+height: 182px;
+left: 33px;
+top: 514px;
+
+background: url(WhatsApp Image 2020-10-03 at 5.24.jpg);
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 347px;
+height: 182px;
+left: 32px;
+top: 116px;
+
+background: url(WhatsApp Image 2020-10-03 at 4.30.jpg);
+
+
+/* Flood Shield */
+
+
+position: absolute;
+width: 192px;
+height: 47px;
+left: 111px;
+top: 45px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+
+color: #FFFAFA;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* subframe 1 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+
+/* 1.99 - 3.8 */
+
+
+position: absolute;
+width: 92px;
+height: 27px;
+left: 162px;
+top: 662px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* 1.71 - 1.98 */
+
+
+position: absolute;
+width: 96px;
+height: 27px;
+left: 160px;
+top: 590px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* 1.41 - 1.7 */
+
+
+position: absolute;
+width: 81px;
+height: 27px;
+left: 167px;
+top: 522px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* 1.02 - 1.4 */
+
+
+position: absolute;
+width: 88px;
+height: 27px;
+left: 163px;
+top: 452px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* 0.81 - 1.01 */
+
+
+position: absolute;
+width: 99px;
+height: 27px;
+left: 158px;
+top: 385px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* 0.32 - 0.81 */
+
+
+position: absolute;
+width: 104px;
+height: 27px;
+left: 155px;
+top: 314px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* 0 - 0.31 */
+
+
+position: absolute;
+width: 75px;
+height: 27px;
+left: 170px;
+top: 245px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 651px;
+
+background: #C4C4C4;
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 582px;
+
+background: #C4C4C4;
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 513px;
+
+background: #C4C4C4;
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 444px;
+
+background: #C4C4C4;
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 375px;
+
+background: #C4C4C4;
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 306px;
+
+background: #C4C4C4;
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 337px;
+height: 47px;
+left: 39px;
+top: 237px;
+
+background: #C4C4C4;
+
+/* Select the Water Depth Range in your area */
+
+
+position: absolute;
+width: 322px;
+height: 60px;
+left: 46px;
+top: 136px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 18px;
+top: 48px;
+
+background: url(icons8-home-page-48.png);
+
+/* Identify your Water level */
+
+
+position: absolute;
+width: 270px;
+height: 30px;
+left: 72px;
+top: 50px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* subframe 5 */
+
+
+position: relative;
+width: 798px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Location of test areas and river basins used for flood hazard map evaluation. Climate change, comprising of changes in precipitation patterns, higher temperatures and sea level rises, increases the likelihood of future flooding in the Betna River basin, Bangladesh. */
+
+
+position: absolute;
+width: 734px;
+height: 305px;
+left: 32px;
+top: 145px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+/* 1-s2 2 */
+
+
+position: absolute;
+width: 798px;
+height: 409px;
+left: 0px;
+top: 318px;
+
+background: url(1-s2.jpg);
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 18px;
+top: 48px;
+
+background: url(icons8-home-page-48.png);
+
+/* Test areas and river basins */
+
+
+position: absolute;
+width: 303px;
+height: 30px;
+left: 248px;
+top: 50px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 911px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* subframe 6 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Contact to the rescue team for the safe guard of your life and family . Contact us by - +91-11-26187232(0) 0345 988 1188 */
+
+
+position: absolute;
+width: 350px;
+height: 292px;
+left: 34px;
+top: 178px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+/* Contact us */
+
+
+position: absolute;
+width: 128px;
+height: 22px;
+left: 143px;
+top: 49px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 18px;
+top: 48px;
+
+background: url(icons8-home-page-48.png);
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* subframe 4 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+/* Frame 8 */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 0px 0px 10px;
+
+position: absolute;
+width: 141px;
+height: 50px;
+left: 137px;
+top: 689px;
+
+/* Antarctica */
+
+
+position: static;
+width: 121px;
+height: 30px;
+left: 10px;
+top: 10px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: center;
+flex-grow: 0;
+margin: 10px 0px;
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 62px;
+top: 689px;
+
+background: #30B02E;
+
+/* Australia */
+
+
+position: absolute;
+width: 103px;
+height: 30px;
+left: 156px;
+top: 619px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 62px;
+top: 609px;
+
+background: #A914CE;
+
+/* Asia */
+
+
+position: absolute;
+width: 47px;
+height: 30px;
+left: 184px;
+top: 539px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 62px;
+top: 529px;
+
+background: #225F20;
+
+/* South America */
+
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 128px;
+top: 459px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 449px;
+
+background: #B72A98;
+
+/* North America */
+
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 128px;
+top: 379px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Europe */
+
+
+position: absolute;
+width: 74px;
+height: 30px;
+left: 170px;
+top: 219px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 369px;
+
+background: #3312B7;
+
+/* Africa */
+
+
+position: absolute;
+width: 69px;
+height: 30px;
+left: 173px;
+top: 299px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 289px;
+
+background: #9B7C0E;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 209px;
+
+background: #00AF90;
+
+/* Click on the Continent */
+
+
+position: absolute;
+width: 197px;
+height: 90px;
+left: 98px;
+top: 110px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+/* Know high risk areas */
+
+
+position: absolute;
+width: 231px;
+height: 30px;
+left: 91px;
+top: 50px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 18px;
+top: 48px;
+
+background: url(icons8-home-page-48.png);
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* subframe 3 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 18px;
+top: 48px;
+
+background: url(icons8-home-page-48.png);
+
+
+/* Safety Measures */
+
+
+position: absolute;
+width: 192px;
+height: 30px;
+left: 111px;
+top: 50px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Click on the condition */
+
+
+position: absolute;
+width: 197px;
+height: 90px;
+left: 109px;
+top: 167px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 317px;
+
+background: #2EB099;
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 428px;
+
+background: #7D0E65;
+
+
+/* During Flood */
+
+
+position: absolute;
+width: 137px;
+height: 30px;
+left: 139px;
+top: 438px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 292px;
+height: 50px;
+left: 61px;
+top: 540px;
+
+background: #CE1414;
+
+
+/* Before Flood */
+
+
+position: absolute;
+width: 132px;
+height: 30px;
+left: 142px;
+top: 327px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* When Flood is eminent */
+
+
+position: absolute;
+width: 236px;
+height: 30px;
+left: 89px;
+top: 550px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* subframe 2 */
+
+
+position: relative;
+width: 414px;
+height: 2002px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 18px;
+top: 48px;
+
+background: url(icons8-home-page-48.png);
+
+
+/* Identify your damage potential */
+
+
+position: absolute;
+width: 338px;
+height: 30px;
+left: 50px;
+top: 50px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 36 */
+
+
+position: absolute;
+width: 369px;
+height: 287px;
+left: 25px;
+top: 470px;
+
+background: url(IMG-20201003-WA0238__02.jpg);
+
+
+/* Rectangle 40 */
+
+
+position: absolute;
+width: 383px;
+height: 295px;
+left: 18px;
+top: 129px;
+
+background: url(IMG-20201003-WA0238__04.jpg);
+
+
+/* Rectangle 37 */
+
+
+position: absolute;
+width: 358px;
+height: 287px;
+left: 31px;
+top: 803px;
+
+background: url(IMG-20201003-WA0238__03.jpg);
+
+
+/* Rectangle 38 */
+
+
+position: absolute;
+width: 369px;
+height: 304px;
+left: 25px;
+top: 1136px;
+
+background: url(IMG-20201003-WA0238__05.jpg);
+
+
+/* Rectangle 39 */
+
+
+position: absolute;
+width: 369px;
+height: 290px;
+left: 25px;
+top: 1486px;
+
+background: url(IMG-20201003-WA0238__01.jpg);
+
+
+/* 3 miniframe 3 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* When Flood is eminent */
+
+
+position: absolute;
+width: 354px;
+height: 45px;
+left: 50px;
+top: 45px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+
+/* 1. Have an emergency plan and practice survival skills. 2. Be prepared assemble an emergency kit in case you need to evacuate. 3. Charge cell phone batteries and any reusable batteries for flashlights. 4. Bring in outdoor furniture and move important items immediately to higher ground. 5. Disconnect electrical appliances. */
+
+
+position: absolute;
+width: 346px;
+height: 617px;
+left: 37px;
+top: 126px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+/* 3 miniframe 2 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* During Flood */
+
+
+position: absolute;
+width: 205px;
+height: 45px;
+left: 108px;
+top: 45px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+
+/* Flood water can be extremely polluted. Follow these tips to reduce risk of injury, sickness or infection: 1. Do not eat food which has been in contact with flood water. 2. Boil all water until supplies have been declared safe. 3. Do not handle wet electrical equipment. 4. Avoid wading, even in shallow water as it may be contaminated. 5. If you must enter shallow flood water, wear solid shoes or boots for protection. 6. Beware of snakes and spiders which may move to drier areas in your house. */
+
+
+position: absolute;
+width: 367px;
+height: 609px;
+left: 27px;
+top: 186px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+/* 3 miniframe 1 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+
+/* Before Flood */
+
+
+position: absolute;
+width: 197px;
+height: 45px;
+left: 108px;
+top: 45px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* 1. Construct barriers to stop floodwater from entering home with waterproofing compounds to avoid seepage. 2. seal walls in basements with waterproofing compounds to avoid seepage. 3. Pay attention to weather forecasts. */
+
+
+position: absolute;
+width: 334px;
+height: 569px;
+left: 37px;
+top: 137px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 31px;
+
+color: #000000;
+
+/* iPhone 11 Pro Max - 3 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL3 Flood level: Waist Discharge: 85 cms Discharge Range: 80.8 -89.3 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 0.81 - 1.01 */
+
+
+position: absolute;
+width: 148px;
+height: 40px;
+left: 133px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFBFB;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 4 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL4 Flood level: Flood Alert Discharge: 152 cms Discharge Range: 144.4 - 159.6 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 1.02 - 1.4 */
+
+
+position: absolute;
+width: 131px;
+height: 40px;
+left: 141px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 5 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL5 Flood level: Special flood alert Discharge: 214 cms Discharge Range: 203.3 - 224.7 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 58px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+/* 1.41 - 1.7 */
+
+
+position: absolute;
+width: 122px;
+height: 40px;
+left: 146px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 6 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL6 Flood level: Flood Risk Discharge: 284 cms Discharge Range: 269.8 - 298.2 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 58px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* 1.71 - 1.98 */
+
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 136px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 7 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL7 Flood level: Design flood Discharge: 944 cms Discharge Range: 869.8 - 991.2 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 58px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 1.98 - 3.8 */
+
+
+position: absolute;
+width: 137px;
+height: 40px;
+left: 139px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 2 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL2 Flood level: Knee Discharge: 61.31 cms Discharge Range: 58.2 - 64.4 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 0.32 - 0.81 */
+
+
+position: absolute;
+width: 156px;
+height: 40px;
+left: 129px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+/* iPhone 11 Pro Max - 3 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL3 Flood level: Waist Discharge: 85 cms Discharge Range: 80.8 -89.3 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 0.81 - 1.01 */
+
+
+position: absolute;
+width: 148px;
+height: 40px;
+left: 133px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFBFB;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 4 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL4 Flood level: Flood Alert Discharge: 152 cms Discharge Range: 144.4 - 159.6 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 1.02 - 1.4 */
+
+
+position: absolute;
+width: 131px;
+height: 40px;
+left: 141px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 5 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL5 Flood level: Special flood alert Discharge: 214 cms Discharge Range: 203.3 - 224.7 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 58px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+/* 1.41 - 1.7 */
+
+
+position: absolute;
+width: 122px;
+height: 40px;
+left: 146px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 6 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL6 Flood level: Flood Risk Discharge: 284 cms Discharge Range: 269.8 - 298.2 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 58px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* 1.71 - 1.98 */
+
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 136px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 7 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL7 Flood level: Design flood Discharge: 944 cms Discharge Range: 869.8 - 991.2 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 58px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 1.98 - 3.8 */
+
+
+position: absolute;
+width: 137px;
+height: 40px;
+left: 139px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 2 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+/* Symbol: WL2 Flood level: Knee Discharge: 61.31 cms Discharge Range: 58.2 - 64.4 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 0.32 - 0.81 */
+
+
+position: absolute;
+width: 156px;
+height: 40px;
+left: 129px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* iPhone 11 Pro Max - 1 */
+
+
+position: relative;
+width: 414px;
+height: 896px;
+
+background: #FFFFFF;
+
+
+/* Symbol: WL1 Flood level: Walklane Discharge: 17.3 cms Discharge Range: 16.4- 18.2 cms */
+
+
+position: absolute;
+width: 290px;
+height: 556px;
+left: 62px;
+top: 99px;
+
+font-family: Love Ya Like A Sister;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 15px;
+top: 37px;
+
+background: url(icons8-back-100.png);
+
+/* 0 - 0.31 */
+
+
+position: absolute;
+width: 113px;
+height: 40px;
+left: 150px;
+top: 45px;
+
+font-family: Gafata;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #FFFFFF;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 414px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+/* 4 miniframe 1 */
+
+
+position: relative;
+width: 678px;
+height: 970px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 41 */
+
+
+position: absolute;
+width: 678px;
+height: 826px;
+left: 0px;
+top: 144px;
+
+background: url(map.jpg);
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 678px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+/* 4 miniframe 2 */
+
+
+position: relative;
+width: 847px;
+height: 1084px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 847px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+
+/* Map-Africa_with-legend 1 */
+
+
+position: absolute;
+width: 847px;
+height: 940px;
+left: 0px;
+top: 144px;
+
+background: url(Map-Africa_with-legend.jpg);
+
+/* 4 miniframe 3 */
+
+
+position: relative;
+width: 1169px;
+height: 896px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 1169px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+
+/* p129-001 1 */
+
+
+position: absolute;
+width: 1169px;
+height: 747px;
+left: 0px;
+top: 144px;
+
+background: url(p129-001.jpg);
+
+/* 4 miniframe 4 */
+
+
+position: relative;
+width: 838px;
+height: 994px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 838px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+
+/* 1-s2 1 */
+
+
+position: absolute;
+width: 838.08px;
+height: 850px;
+left: 0px;
+top: 144px;
+
+background: url(1-s2.jpg);
+
+/* 4 miniframe 5 */
+
+
+position: relative;
+width: 914px;
+height: 1082px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 914px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+
+/* 100_Year_Flood-1 1 */
+
+
+position: absolute;
+width: 914px;
+height: 938px;
+left: 0px;
+top: 144px;
+
+background: url(100_Year_Flood-1.jpg);
+
+/* 4 miniframe 6 */
+
+
+position: relative;
+width: 1213px;
+height: 997px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 1213px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+
+/* australia-rainfall-01-to-06-june-2016 1 */
+
+
+position: absolute;
+width: 1206px;
+height: 853px;
+left: 7px;
+top: 144px;
+
+background: url(australia-rainfall-01-to-06-june-2016.png);
+
+/* 4 miniframe 7 */
+
+
+position: relative;
+width: 968px;
+height: 943px;
+overflow: scroll;
+
+background: #FFFFFF;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 968px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+background: #5E5C9F;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 43px;
+height: 41px;
+left: 55px;
+top: 52px;
+
+background: url(icons8-back-100.png);
+
+
+/* image_7912_1e-Antarctica-Map 1 */
+
+
+position: absolute;
+width: 968px;
+height: 799px;
+left: 0px;
+top: 144px;
+
+background: url(image_7912_1e-Antarctica-Map.jpg);
+
+
+
+
+
+
+
